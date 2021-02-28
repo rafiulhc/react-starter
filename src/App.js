@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Playersdata from '././'
 
 function App() {
   return (
